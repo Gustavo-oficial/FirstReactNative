@@ -10,11 +10,15 @@ export default function App() {
   alert(`${email} ${senha}`);
   }
 
+  
+    
 
   return (
     <View style={styles.container}>
+      
+    
       <Text>Hello my friends</Text>
-
+       
 
       <Text>Email</Text>
       <TextInput
